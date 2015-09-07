@@ -1,0 +1,36 @@
+{
+    "loc" : [
+        -28.4623320000000000,
+        -49.0158399999999970
+    ],
+    "placename" : "Place 1",
+    "endereco" : {
+        "logradouro" : "Street XXX",
+        "numero" : "1",
+        "cep" : "88708-111"
+    }
+},
+{
+    "loc" : [
+        -28.4870890000000010,
+        -49.0170070000000000
+    ],
+    "placename" : "Place 2",
+    "endereco" : {
+        "logradouro" : "Street YYY",
+        "numero" : "sn",
+        "cep" : "88700-222"
+    }
+},
+{
+    "loc" : [
+        -28.4795880000000000,
+        -49.0218610000000010
+    ],
+    "placename" : "Place 3",
+    "endereco" : {
+        "logradouro" : "Street ZZZ",
+        "numero" : "333",
+        "cep" : "88704-333"
+    }
+}

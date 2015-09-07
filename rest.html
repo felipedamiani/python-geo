@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="jquery-2.1.4.min.js"></script>
+    <script src="rest.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?signed_in=true&callback=app.initMap" async defer></script>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="text" value="1000" id="distance" />
+    <button id="btn">Go!</button><br/>
+    <div id="map"></div>
+  </body>
+</html>
